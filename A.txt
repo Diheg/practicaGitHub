@@ -2,3 +2,5 @@ Fichero de A
 Cambio 1 de A
 Cambio 2 de A
 Cambio de A en A2
+Cambio de 1 de A1 (wt)
+Cambio 2 de A1 (wt)
